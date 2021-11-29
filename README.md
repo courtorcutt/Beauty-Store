@@ -1,5 +1,5 @@
 # Beauty-Store
-Django + Python + JavaScript + HTML/CSS
+Django + React + Python + JavaScript + HTML/CSS
 
 
 
