@@ -1,3 +1,4 @@
+import django_heroku
 """
 Django settings for ecommerce project.
 
@@ -129,3 +130,5 @@ MEDIA_URL = '/images/'
 
 # images will be uploaded into the folder
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static/images')
+
+django_heroku.settings(locals())
