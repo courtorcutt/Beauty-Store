@@ -1,6 +1,8 @@
 # Beauty-Store - Instructions to review backend is under the smoke test (video)
 Django + React + Python + JavaScript + HTML/CSS
 
+Administrator has ability to create “shipments” and assign inventory to the shipment. The inventory and orders places are kept track of. 
+
 https://beauty-store-project-django.herokuapp.com/
 
 https://user-images.githubusercontent.com/72311187/141941610-a9c9ee49-decb-42f6-a422-7f5a3010eee1.mov
