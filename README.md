@@ -9,7 +9,7 @@ Instructions to review backend:
 
 - download repository
 - run python3 manage.py createsuperuser
-- you will be asked for a username and password (this is setting up your administratio profile)
+- you will be asked for a username and password (this is setting up your administrator profile)
 - the run python manage.py runserver
 - then go to 127.0.0.1:8000/admin
 - you will see the image below
