@@ -22,3 +22,6 @@ Instructions to review backend:
 <img width="1067" alt="Screen Shot 2022-01-20 at 3 21 23 PM" src="https://user-images.githubusercontent.com/72311187/150367877-f281429a-ca41-4efd-9c1f-78f3e586d2f8.png">
 You can also create orders and review orders, etc.
 <img width="299" alt="Screen Shot 2022-01-20 at 3 22 09 PM" src="https://user-images.githubusercontent.com/72311187/150368030-081b6c2c-49ec-42a9-8cf5-ddce545f6d8c.png">
+
+The code for the models is visible below and in /store/models.py :
+<img width="569" alt="Screen Shot 2022-01-20 at 3 23 03 PM" src="https://user-images.githubusercontent.com/72311187/150368181-b0355c7d-006c-497d-babf-d1e205b93b95.png">
