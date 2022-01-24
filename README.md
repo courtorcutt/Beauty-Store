@@ -1,7 +1,7 @@
-# Beauty-Store - Instructions to review backend is under the smoke test (video)
+# Beauty-Inventory-Tracking-Store - Instructions to review backend is under the smoke test (video)
 Django + React + Python + JavaScript + HTML/CSS
 
-Administrator has ability to create “shipments” and assign inventory to the shipment. The inventory and orders placed are kept track of. 
+"Orchid Beauty" is a beauty logistics company selling products to independent stores. Administrator has ability to create “shipments” and assign inventory to the shipment. The inventory and orders placed are kept track of. 
 
 https://beauty-store-project-django.herokuapp.com/
 
